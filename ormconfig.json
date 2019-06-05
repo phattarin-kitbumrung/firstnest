@@ -1,0 +1,10 @@
+{
+   "type": "mongodb",
+   "host": "xxx",
+   "database": "weather",
+   "entities": ["src/**/**.entity{.ts,.js}"],
+   "synchronize": true
+}
+
+
+
